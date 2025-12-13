@@ -14,16 +14,24 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a Data & Insight Analyst with experience delivering customer-led analytics within regulated environments, including insurance and healthtech. My work focuses on analysing complex customer complaints and operational data to identify root causes, behavioural patterns, and systemic gaps that impact customer outcomes and business performance.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+In my current role within the travel insurance sector, I work extensively with complaint and feedback data, investigating issues related to auto-renewals, medical disclosures, waiting lists, policy awareness, and agent behaviour. My analysis supports operational and leadership teams in refining processes, improving communication, and reducing avoidable customer dissatisfaction.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Previously, I contributed to the conceptual development of secure digital workflows within a healthtech environment, exploring how blockchain-based approaches can enhance data integrity, transparency, and trust in systems handling sensitive information.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+I am particularly interested in building analytical frameworks that go beyond reporting, enabling data-driven decision-making, accountability, and measurable service improvement.
+
+**Current Focus Areas**
+
+- Customer Complaints Insight & Root Cause Analysis  
+- Auto-Renewal & Policy Lifecycle Analytics  
+- Decision-Focused Reporting for Non-Technical Stakeholders  
+- Trust, Transparency & Data Integrity in Digital Systems 
+
+
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Working
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
