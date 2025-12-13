@@ -8,9 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rajgow/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://codebasics.io/portfolio/Rajath-Gowda"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:rajathsagar.rs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -22,29 +22,27 @@ Previously, I contributed to the conceptual development of secure digital workfl
 
 I am particularly interested in building analytical frameworks that go beyond reporting, enabling data-driven decision-making, accountability, and measurable service improvement.
 
-**Current Focus Areas**
+      
+## 🔭 What I'm Currently Working
+
+- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+
+## 🌱 Currently Learning 
 
 - Customer Complaints Insight & Root Cause Analysis  
 - Auto-Renewal & Policy Lifecycle Analytics  
 - Decision-Focused Reporting for Non-Technical Stakeholders  
 - Trust, Transparency & Data Integrity in Digital Systems 
 
-
-      
-## 🔭 What I'm Currently Working
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- SQL (Advanced)  
+- Excel (Advanced analytics, large-scale data analysis)  
+- Power BI (Stakeholder-ready dashboards)  
+- Python (Data analysis & automation)  
+- Statistical Analysis & KPI Design  
+- Customer & Complaints Analytics 
 
 #### Data Analysis & Visualization
 <p>
