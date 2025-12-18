@@ -50,7 +50,7 @@ I am particularly interested in building analytical frameworks that go beyond re
 -	Statistical Analysis & KPI Architecture — defining measurable performance and risk indicators
 -	Automation & Analytical Tooling — reproducible analysis and process efficiency
 
-#### 🧭 Strategic & Analytical Leadership
+## 🧭 Strategic & Analytical Leadership
 
 - Translating complex analysis into decision-ready narratives for non-technical stakeholders  
 - Structuring analytical frameworks adopted across investigations and reviews  
