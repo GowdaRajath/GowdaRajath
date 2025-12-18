@@ -27,6 +27,13 @@ I am particularly interested in building analytical frameworks that go beyond re
 
 - **Project Blockchain Audit & Transparency Systems :** A research-driven blockchain system that provides tamper-evident audit trails for critical business decisions. The project uses a hybrid on-chain/off-chain architecture, cryptographic integrity verification, and transparency dashboards to support traceability and trust in regulated environments. 
 
+## 🧭 Analytical Impact & Focus Areas
+
+- Designing complaint and decision analytics that inform operational and policy-level improvements  
+- Identifying preventable customer harm through root-cause and lifecycle analysis  
+- Supporting leadership teams with evidence-based insights to improve fairness, clarity, and trust  
+- Building analytical frameworks that move beyond reporting to accountability and action  
+
 ## 🌱 Currently Learning 
 
 - Customer Complaints Insight & Root Cause Analysis  
@@ -43,6 +50,11 @@ I am particularly interested in building analytical frameworks that go beyond re
 -	Statistical Analysis & KPI Architecture — defining measurable performance and risk indicators
 -	Automation & Analytical Tooling — reproducible analysis and process efficiency
 
+#### 🧭 Strategic & Analytical Leadership
+
+- Translating complex analysis into decision-ready narratives for non-technical stakeholders  
+- Structuring analytical frameworks adopted across investigations and reviews  
+- Balancing regulatory, customer, and operational considerations in insight delivery  
 
 #### Data Analysis & Visualization
 <p>
