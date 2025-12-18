@@ -36,32 +36,29 @@ I am particularly interested in building analytical frameworks that go beyond re
 
 ## 🛠️ Technical Skillset
 
-- SQL (Advanced)  
-- Excel (Advanced analytics, large-scale data analysis)  
-- Power BI (Stakeholder-ready dashboards)  
-- Python (Data analysis & automation)  
-- Statistical Analysis & KPI Design  
-- Customer & Complaints Analytics 
+-	Decision & Customer Intelligence — end-to-end analysis of complaints, customer behaviour, and service outcomes in regulated environments
+-	Data Modelling & Analytical Design — structuring datasets, lifecycle models, and metrics for audit-ready insights
+-	Business Intelligence & Insight Delivery — stakeholder-ready dashboards and evidence-based recommendations
+-	Integrity, Transparency & Trust Analytics — auditability, traceability, and verification-focused system design
+-	Statistical Analysis & KPI Architecture — defining measurable performance and risk indicators
+-	Automation & Analytical Tooling — reproducible analysis and process efficiency
+
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge"> <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge"> <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge"> <img src="https://img.shields.io/badge/Node.js-System%20Logic-339933?style=flat&logo=node.js&logoColor=white" alt="Node Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge"> <img src="https://img.shields.io/badge/KPI%20Design-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge"> <img src="https://img.shields.io/badge/Customer%20Analytics-Expert-FF6B6B?style=flat" alt="Customer Analytics Badge">
+</p>
+
+#### Trust, Transparency & Blockchain Systems
+<p><img src="https://img.shields.io/badge/Blockchain-Audit%20Systems-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Blockchain Badge"> <img src="https://img.shields.io/badge/Data%20Integrity-Cryptographic%20Verification-8A2BE2?style=flat" alt="Integrity Badge">
 </p>
