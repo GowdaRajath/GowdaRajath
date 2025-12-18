@@ -25,8 +25,7 @@ I am particularly interested in building analytical frameworks that go beyond re
       
 ## 🔭 What I'm Currently Working
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project Blockchain Audit & Transparency Systems :** A research-driven blockchain system that provides tamper-evident audit trails for critical business decisions. The project uses a hybrid on-chain/off-chain architecture, cryptographic integrity verification, and transparency dashboards to support traceability and trust in regulated environments. 
 
 ## 🌱 Currently Learning 
 
